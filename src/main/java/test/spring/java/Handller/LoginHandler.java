@@ -1,4 +1,4 @@
-package test.spring.Handller;
+package test.spring.java.Handller;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletRequest;

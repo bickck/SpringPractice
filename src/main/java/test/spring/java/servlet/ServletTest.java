@@ -1,4 +1,4 @@
-package test.spring.servlet;
+package test.spring.java.servlet;
 
 import java.io.IOException;
 
